@@ -23,5 +23,4 @@ public class CouponNumber {
 			System.out.print(i+" ");
 		}
 	}
-
 }
